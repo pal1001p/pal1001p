@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pal1001p, a freshman in Computer Science, BS.
+- 👋 Hi, I’m @pal1001p, a sophomore in Computer Science, BS.
 - 👀 I’m interested in artificial intelligence and cybersecurity! I have some experience in software development and am looking to dive more into other areas of computer science.
 - 🌱 I’m currently learning algorithms and data structures.
 
