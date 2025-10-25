@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pal1001p, a junior in Computer Science, BS.
-- 👀 I’m interested in artificial intelligence and cybersecurity! I have some experience in software development and am looking to dive more into other areas of computer science.
-- 🌱 I’m currently learning how to work in a team on large-scale software engineering problems for a growth-stage startup.
+- Junior in Computer Science, minor in Data Science
+- Interested in software development, AI and cybersecurity
 
 <!---
 pal1001p/pal1001p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
