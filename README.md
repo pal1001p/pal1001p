@@ -1,4 +1,4 @@
-- Junior in Computer Science, minor in Data Science
+- Senior with major in Computer Science, minoring in Data Science
 - Interested in software development and cybersecurity
 
 <!---
